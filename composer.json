@@ -20,7 +20,8 @@
 
 	"require": {
 		"php": ">=5.2.1",
-		"typo3-ci/typo3sniffpool": ">=0.0.6"
+		"typo3-ci/typo3sniffpool": ">=0.0.6",
+		"simplyadmire/composer-plugins": "*"
 	},
 
 	"suggest": {
