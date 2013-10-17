@@ -4,6 +4,7 @@
 
 	<!-- Exclude patterns -->
 	<exclude-pattern>*/Migrations/*</exclude-pattern>
+    <exclude-pattern>*/Resources/Private/PHP/*</exclude-pattern>
 
 	<!-- Arrays -->
 	<rule ref="Squiz.Arrays.ArrayBracketSpacing" />
