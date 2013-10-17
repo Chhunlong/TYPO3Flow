@@ -55,10 +55,8 @@
 
 	<!-- PHP -->
 	<rule ref="Generic.PHP.CharacterBeforePHPOpeningTag" />
-	<rule ref="../TYPO3SniffPool/Sniffs/PHP/CharacterAfterPHPClosingTagSniff.php" />
 	<rule ref="Generic.PHP.DisallowShortOpenTag" />
 	<rule ref="../TYPO3SniffPool/Sniffs/PHP/DisallowMultiplePHPTagsSniff.php" />
-	<rule ref="Generic.PHP.ClosingPHPTag" />
 	<rule ref="Squiz.PHP.NonExecutableCode" />
 	<rule ref="Generic.PHP.DeprecatedFunctions" />
 	<rule ref="Squiz.PHP.Eval">
