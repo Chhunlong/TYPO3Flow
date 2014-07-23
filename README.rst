@@ -131,6 +131,10 @@ After you cloned the standard and it dependencies the usage is nearly the same a
 2. Put the standard at any place you want and call point to it absolutely *--standard=/path/to/TYPO3Flow/ruleset.xml*
 
 
+Contribution
+============
+Please have a look at `dedicated  wiki page <https://github.com/typo3-ci/TYPO3SniffPool/wiki#contribute>`_ for information about how you can contribute.
+
 Further informations
 ====================
 
