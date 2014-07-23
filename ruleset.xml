@@ -65,6 +65,7 @@
 	</rule>
 	<rule ref="Squiz.PHP.GlobalKeyword" />
 	<rule ref="Generic.PHP.UpperCaseConstant" />
+	<rule ref="Zend.Files.ClosingTag" />
 
 	<!-- Scope -->
 	<rule ref="Squiz.Scope.MemberVarScope" />
