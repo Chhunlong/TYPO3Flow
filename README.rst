@@ -53,16 +53,7 @@ Create a composer.json in the root folder of your project and declare this stand
  
  
         {
-                "require": {
-                        "typo3-ci/typo3flow": "0.0.3"
-                }
-        }
- 
-This will install version 0.0.3 of this standard. If you live on the edge, try:
- 
-::
- 
-        {
+                "minimum-stability": "alpha",
                 "require": {
                         "typo3-ci/typo3flow": "dev-master"
                 }
