@@ -21,27 +21,6 @@ In case you didn't have install the TYPO3SniffPool or the PHP_CodeSniffer yet - 
  
 There are several ways to get the standard, which I am going to describe now. There is no right or wrong. Which way you choose depends on your preferences and at least on your requirements.
  
-PEAR
-----
- 
-The easiest way to install this standard is via PEAR. Just call this command from your terminal:
- 
-::
- 
-        $ pear channel-discover pear.typo3.org
-        $ pear install typo3/TYPO3Flow
- 
-This command will also install the TYPO3SniffPool and the PHP_CodeSniffer into your PEAR path. 
- 
-Be sure that the standard is there:
- 
-::
- 
-        $ phpcs -i
-        $ The installed coding standards are MySource, PEAR, PHPCS, PSR1, PSR2, Squiz, TYPO3Flow, TYPO3SniffPool and Zend
- 
-Have also a look at http://pear.typo3.org for more informations.
- 
 Composer
 --------
  
@@ -85,15 +64,6 @@ How to use
 ==========
 
 As various the installations methods are, as various the usage is.
-
-PEAR
-----
- 
-If you installed this standard via PEAR you are able to call the phpcs command globally.
- 
-::
- 
-        $ phpcs --standard=TYPO3Flow /path/to/folder
 
 Composer
 --------
