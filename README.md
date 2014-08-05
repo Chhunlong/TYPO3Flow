@@ -1,6 +1,3 @@
-.. image:: https://badge.waffle.io/typo3-ci/typo3flow.png?label=ready&title=Ready 
- :target: https://waffle.io/typo3-ci/typo3flow
- :alt: 'Stories in Ready'
 ==============================
 TYPO3Flow CodeSniffer standard
 ==============================
