@@ -19,7 +19,7 @@
 	],
 
 	"require": {
-		"typo3-ci/typo3sniffpool": ">=1.0.0-alpha"
+		"typo3-ci/typo3sniffpool": ">=1.0.0"
 	},
 
 	"suggest": {
