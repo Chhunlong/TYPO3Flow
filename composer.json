@@ -1,8 +1,8 @@
 {
 	"name": "typo3-ci/typo3flow",
 	"type": "phpcodesniffer-standard",
-	"description": "This package contains a selection of sniffs which implements the Coding Guidelines for TYPO3Flow which was former known as FLOW3.",
-	"homepage": "http://forge.typo3.org/projects/show/team-php_codesniffer",
+	"description": "This package contains a selection of sniffs which implements the Coding Guidelines for TYPO3 FLOW which was former known as FLOW3.",
+	"homepage": "https://github.com/typo3-ci/TYPO3Flow",
 	"keywords": ["typo3", "standards", "phpcs", "coding guidelines", "codesniffer", "quality assurance", "flow"],
 	"license": "GPL-2.0",
 	"authors": [
@@ -19,19 +19,16 @@
 	],
 
 	"require": {
-		"php": ">=5.2.1",
-		"typo3-ci/typo3sniffpool": ">=1.0.0-alpha",
-		"simplyadmire/composer-plugins": "*"
+		"typo3-ci/typo3sniffpool": ">=1.0.0"
 	},
 
 	"suggest": {
-		"typo3-ci/typo3cms": ">=0.0.6"
+		"typo3-ci/typo3cms": ">=6.2.0"
 	},
 
 	"support": {
-		"issues": "http://forge.typo3.org/projects/team-php_codesniffer/issues",
-		"wiki": "http://forge.typo3.org/projects/team-php_codesniffer/wiki",
+		"issues": "https://github.com/typo3-ci/TYPO3Flow/issues",
+		"wiki": "https://github.com/typo3-ci/TYPO3SniffPool/wiki",
 		"source": "https://github.com/typo3-ci/TYPO3Flow.git"
 	}
-
 }
