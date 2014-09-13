@@ -23,7 +23,7 @@
 	},
 
 	"suggest": {
-		"typo3-ci/typo3cms": ">=0.0.6"
+		"typo3-ci/typo3cms": ">=6.2.0"
 	},
 
 	"support": {
