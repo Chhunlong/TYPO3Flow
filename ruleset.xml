@@ -22,7 +22,6 @@
 
 	<!-- Commenting -->
 	<rule ref="PEAR.Commenting.InlineComment" />
-	<rule ref="../TYPO3SniffPool/Sniffs/Commenting/DoubleSlashCommentsInNewLineSniff.php" />
 	<rule ref="../TYPO3SniffPool/Sniffs/Commenting/SpaceAfterDoubleSlashSniff.php" />
 
 	<!-- Control structures -->
