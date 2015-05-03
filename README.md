@@ -31,6 +31,12 @@ Since the package is managed with [Packagist](https://packagist.org/) this is al
  
 This will install the [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and the [TYPO3SniffPool](https://github.com/typo3-ci/TYPO3SniffPool) into the *vendor/* folder of your project. For more informations about Composer have a look at their [documentation](http://getcomposer.org/doc/00-intro.md).
 
+For a system-wide installation, you can use:
+```
+composer global require "typo3-ci/typo3flow=dev-master"
+```
+Make sure to have ``~/.composer/vendor/bin/`` in your path.
+
 ### Git
  
 The second way is to clone [the repository](https://github.com/typo3-ci/TYPO3Flow) from github. **In this case you have to take care about the dependencies by yourself**.
