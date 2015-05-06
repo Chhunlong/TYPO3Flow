@@ -1,5 +1,13 @@
 # Change Log
 
+## [2.3.1](https://github.com/typo3-ci/TYPO3Flow/tree/2.2.0) (2015-05-06)
+
+[Full Changelog](https://github.com/typo3-ci/TYPO3Flow/compare/2.3.0...2.3.1)
+
+**Fixed bugs:**
+
+- Missing AssignmentArithmeticAndComparisonSpaceSniff and AsteriksWhitespacesSniff [\#15](https://github.com/typo3-ci/TYPO3Flow/issues/15)
+
 ## [2.3.0](https://github.com/typo3-ci/TYPO3Flow/tree/2.3.0) (2015-05-03)
 
 [Full Changelog](https://github.com/typo3-ci/TYPO3Flow/compare/2.2.0...2.3.0)
