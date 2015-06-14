@@ -1,6 +1,14 @@
 # Change Log
 
-## [2.3.1](https://github.com/typo3-ci/TYPO3Flow/tree/2.2.0) (2015-05-06)
+## [2.3.2](https://github.com/typo3-ci/TYPO3Flow/tree/2.3.2) (2015-06-14)
+
+[Full Changelog](https://github.com/typo3-ci/TYPO3Flow/compare/2.3.1...2.3.2)
+
+**Implemented enhancements:**
+
+- Updated composer dependencies
+
+## [2.3.1](https://github.com/typo3-ci/TYPO3Flow/tree/2.3.1) (2015-05-06)
 
 [Full Changelog](https://github.com/typo3-ci/TYPO3Flow/compare/2.3.0...2.3.1)
 
